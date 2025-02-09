@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aakash109-hub  
+- 👋 Hi, I’m Aakash Gayke
 - 👀 I’m interested in **AI, Machine Learning, and Data Science**  
 - 🌱 I’m currently learning **LLMs, LangChain, and RAG-based Chatbots**  
 - 💞️ I’m looking to collaborate on **AI/ML projects, open-source contributions, and research work**  
