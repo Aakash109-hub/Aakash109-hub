@@ -4,7 +4,7 @@
 🔬 Passionate about **building intelligent systems** and exploring the **intersection of AI & Mathematics.**  
 
 ## 🔎 About Me  
-- 🎓 **Master’s in Mathematics** | AI Trainer | Aspiring **AI/ML Engineer**  
+- 🎓 **Master’s in Mathematics** | LLM Trainer | Aspiring **AI/ML Engineer**  
 - 🧠 Currently exploring LLMs and their applications in AI-driven automation  
 - 🤝 Open to **collaborations** on AI/ML projects, research, and open-source contributions  
 - 💡 Interested in **Generative AI, NLP, and Computer Vision**  
